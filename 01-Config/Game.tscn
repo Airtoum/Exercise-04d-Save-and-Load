@@ -106,7 +106,7 @@ position = Vector2( 1750, 545 )
 position = Vector2( 2200, 545 )
 
 [node name="Mine6" parent="Mines" instance=ExtResource( 3 )]
-position = Vector2( 2600, 545 )
+position = Vector2( 2600, 546 )
 
 [node name="Mine7" parent="Mines" instance=ExtResource( 3 )]
 position = Vector2( 3200, 545 )
